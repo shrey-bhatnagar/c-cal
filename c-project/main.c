@@ -4,8 +4,9 @@
  * Description	- A simple program which can print 
  * 			the addition and subraction
  * 			of two number.
- * /
-
+ * 
+ * Lisence	- Public (open to all) 
+ */
 #include<stdio.h>
 #include "sub1.h"
 #include "sub2.h"
