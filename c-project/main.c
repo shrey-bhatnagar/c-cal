@@ -10,5 +10,7 @@ sum = add(a,b);
 printf("add: the Sum of num %d + %d is %d\n",a,b,sum);
 sum = sub(a,b);
 printf("sub: the Sum of num %d - %d is %d\n",a,b,sum);
+
+printf("\n\n ---- Finished the run!!!\n")
 return 0;
 }
