@@ -1,8 +1,14 @@
+/* Author 	- Shrey Bhatnagar
+ * Purpose	- Training
+ * Date		- 7-november-2017
+ * Description	- A simple program which can print 
+ * 			the addition and subraction
+ * 			of two number.
+ * /
+
 #include<stdio.h>
 #include "sub1.h"
 #include "sub2.h"
-//extern int add(int , int );
-//extern int sub(int , int );
 
 int main(){
 int a=2, b=8, sum=0;
